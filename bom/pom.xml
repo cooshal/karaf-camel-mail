@@ -28,7 +28,7 @@
         <javax.ws.version>2.0.1</javax.ws.version>
         <servlet.version>2.5</servlet.version>
         <cxf.version>3.2.6</cxf.version>
-        <jackson.version>2.8.11</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <http-components.version>4.3.3</http-components.version>
         <http-client.version>4.4.1</http-client.version>
         <http-core.version>4.4.11</http-core.version>

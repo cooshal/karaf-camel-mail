@@ -11,7 +11,7 @@
         <activeMQ.version>5.15.3</activeMQ.version>
         <asm.commons.version>5.1</asm.commons.version>
         <dependency.plugin.version>3.0.0</dependency.plugin.version>
-        <karaf.version>4.2.0</karaf.version>
+        <karaf.version>4.3.8</karaf.version>
         <felix.bundle.plugin.version>3.2.0</felix.bundle.plugin.version>
         <hamcrest.version>1.3</hamcrest.version>
         <hawtio.version>1.5.9</hawtio.version>
